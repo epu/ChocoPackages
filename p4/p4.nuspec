@@ -14,7 +14,7 @@
     <licenseUrl>http://www.perforce.com/downloads/terms-use</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/caskater4/ChocoPackages/master/p4/p4.png</iconUrl>
-    <releaseNotes>http://www.perforce.com/perforce/r12.2/user/relnotes.txt</releaseNotes>
+    <releaseNotes>http://www.perforce.com/perforce/r14.2/user/relnotes.txt</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
